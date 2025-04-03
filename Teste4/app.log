@@ -1,0 +1,80 @@
+2025-04-02 20:07:34,529 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/
+2025-04-02 20:07:34,530 - INFO - Endpoint /hello-world acessado
+2025-04-02 20:07:34,531 - INFO - Resposta gerada com status: 200
+2025-04-02 20:07:34,769 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/favicon.ico
+2025-04-02 20:07:34,769 - INFO - Resposta gerada com status: 404
+2025-04-02 20:07:41,421 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/docs
+2025-04-02 20:07:41,421 - INFO - Resposta gerada com status: 200
+2025-04-02 20:07:41,663 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/openapi.json
+2025-04-02 20:07:41,677 - INFO - Resposta gerada com status: 200
+2025-04-02 20:07:46,561 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:08:02,475 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=5
+2025-04-02 20:08:50,080 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=5
+2025-04-02 20:10:13,050 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/docs
+2025-04-02 20:10:13,050 - INFO - Resposta gerada com status: 200
+2025-04-02 20:10:13,203 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/openapi.json
+2025-04-02 20:10:13,214 - INFO - Resposta gerada com status: 200
+2025-04-02 20:10:16,118 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:11:31,465 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:11:33,231 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:12:58,138 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:16:37,779 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:16:40,322 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:18:19,424 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:18:19,440 - INFO - Resposta gerada com status: 200
+2025-04-02 20:18:51,836 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:18:51,843 - INFO - Resposta gerada com status: 200
+2025-04-02 20:20:17,068 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/docs
+2025-04-02 20:20:17,069 - INFO - Resposta gerada com status: 200
+2025-04-02 20:20:17,302 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/openapi.json
+2025-04-02 20:20:17,317 - INFO - Resposta gerada com status: 200
+2025-04-02 20:20:31,779 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=10
+2025-04-02 20:20:31,786 - INFO - Resposta gerada com status: 200
+2025-04-02 20:20:52,317 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=18%20DE%20JULHO%20ADMINISTRADORA%20DE%20BENEF%C3%8DCIOS%20LTDA&page=1&limit=100
+2025-04-02 20:20:52,344 - ERROR - Erro ao buscar Operadoras: "None of [Index(['razao_social', 'nome_fantasia', 'logradouro', 'bairro', 'cidade',\n       'uf'],\n      dtype='object')] are in the [columns]"
+2025-04-02 20:20:52,345 - INFO - Resposta gerada com status: 500
+2025-04-02 20:22:38,750 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/docs
+2025-04-02 20:22:38,751 - INFO - Resposta gerada com status: 200
+2025-04-02 20:22:39,015 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/openapi.json
+2025-04-02 20:22:39,029 - INFO - Resposta gerada com status: 200
+2025-04-02 20:22:56,875 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=lltda&page=1&limit=100
+2025-04-02 20:22:56,922 - INFO - Resposta gerada com status: 404
+2025-04-02 20:23:12,661 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 20:23:12,679 - INFO - Resposta gerada com status: 200
+2025-04-02 20:23:26,511 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=odontologia&page=1&limit=100
+2025-04-02 20:23:26,517 - INFO - Resposta gerada com status: 200
+2025-04-02 20:24:45,645 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=2b%20odontologia%20operadora%20de%20planos%20odontol%C3%B3gicos%20ltda&page=1&limit=100
+2025-04-02 20:24:45,650 - INFO - Resposta gerada com status: 200
+2025-04-02 20:27:09,550 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=2b%20odontologia%20operadora%20de%20planos%20odontol%C3%B3gicos%20ltda&page=1&limit=100
+2025-04-02 20:27:09,556 - INFO - Resposta gerada com status: 422
+2025-04-02 20:27:14,664 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=2b%20odontologia%20operadora%20de%20planos%20odontol%C3%B3gicos%20ltda&page=1&limit=100
+2025-04-02 20:27:14,665 - INFO - Resposta gerada com status: 422
+2025-04-02 20:27:34,463 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=2b%20odontologia%20operadora%20de%20planos%20odontol%C3%B3gicos%20ltda&page=1&limit=100
+2025-04-02 20:27:34,472 - INFO - Resposta gerada com status: 200
+2025-04-02 20:31:40,608 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=2b%20odontologia%20operadora%20de%20planos%20odontol%C3%B3gicos%20ltda&page=1&limit=100
+2025-04-02 20:31:40,617 - INFO - Resposta gerada com status: 200
+2025-04-02 20:35:25,962 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=odontologia%20&page=1&limit=100
+2025-04-02 20:35:25,979 - INFO - Resposta gerada com status: 200
+2025-04-02 20:35:45,249 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=odontologia%20&page=1&limit=100
+2025-04-02 20:35:45,254 - INFO - Resposta gerada com status: 200
+2025-04-02 20:37:47,639 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=instituto%20&page=1&limit=100
+2025-04-02 20:37:47,645 - INFO - Resposta gerada com status: 200
+2025-04-02 20:38:44,922 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 20:38:44,931 - INFO - Resposta gerada com status: 200
+2025-04-02 20:39:25,815 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100%0A
+2025-04-02 20:39:25,828 - INFO - Resposta gerada com status: 200
+2025-04-02 20:40:00,924 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=999999999&page=1&limit=100
+2025-04-02 20:40:00,927 - INFO - Resposta gerada com status: 404
+2025-04-02 20:40:23,942 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=999999999&page=1&limit=100%0A
+2025-04-02 20:40:23,944 - INFO - Resposta gerada com status: 404
+2025-04-02 20:42:47,844 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=&page=1&limit=10
+2025-04-02 20:42:47,854 - INFO - Resposta gerada com status: 422
+2025-04-02 20:42:58,936 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=a&page=1&limit=10
+2025-04-02 20:42:58,936 - INFO - Resposta gerada com status: 422
+2025-04-02 20:43:09,448 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=a12&page=1&limit=10
+2025-04-02 20:43:09,452 - INFO - Resposta gerada com status: 404
+2025-04-02 20:43:13,173 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=a&page=1&limit=10
+2025-04-02 20:43:13,174 - INFO - Resposta gerada com status: 422
+2025-04-02 21:10:06,703 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/
+2025-04-02 21:10:06,703 - INFO - Endpoint /hello-world acessado
+2025-04-02 21:10:06,704 - INFO - Resposta gerada com status: 200

@@ -1,0 +1,70 @@
+2025-04-02 21:12:00,502 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/docs
+2025-04-02 21:12:00,503 - INFO - Resposta gerada com status: 200
+2025-04-02 21:12:00,767 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/openapi.json
+2025-04-02 21:12:00,786 - INFO - Resposta gerada com status: 200
+2025-04-02 21:12:05,133 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 21:12:05,142 - INFO - Resposta gerada com status: 200
+2025-04-02 21:13:26,865 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=odontologia%20&page=1&limit=100
+2025-04-02 21:13:26,871 - INFO - Resposta gerada com status: 200
+2025-04-02 21:13:41,540 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=instituto%20&page=1&limit=100%0A
+2025-04-02 21:13:41,549 - INFO - Resposta gerada com status: 200
+2025-04-02 21:13:51,685 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100%0A
+2025-04-02 21:13:51,692 - INFO - Resposta gerada com status: 200
+2025-04-02 21:13:57,815 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=999999999&page=1&limit=100%0A
+2025-04-02 21:13:57,818 - INFO - Resposta gerada com status: 404
+2025-04-02 21:14:05,279 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=a&page=1&limit=10
+2025-04-02 21:14:05,280 - INFO - Resposta gerada com status: 422
+2025-04-02 21:25:46,828 - INFO - Recebendo requisição: GET http://localhost:8000/OperadorasAtivas/buscar?nome=odontologia
+2025-04-02 21:25:46,833 - INFO - Resposta gerada com status: 422
+2025-04-02 21:26:21,583 - INFO - Recebendo requisição: GET http://localhost:8000/OperadorasAtivas?nome=nome
+2025-04-02 21:26:21,584 - INFO - Resposta gerada com status: 307
+2025-04-02 21:26:23,961 - INFO - Recebendo requisição: GET http://localhost:8000/OperadorasAtivas?nome=asd
+2025-04-02 21:26:23,962 - INFO - Resposta gerada com status: 307
+2025-04-02 21:26:32,948 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/?page=1&limit=100
+2025-04-02 21:26:32,957 - INFO - Resposta gerada com status: 200
+2025-04-02 21:26:40,716 - INFO - Recebendo requisição: GET http://localhost:8000/OperadorasAtivas?nome=JULHO+
+2025-04-02 21:26:40,716 - INFO - Resposta gerada com status: 307
+2025-04-02 21:26:41,822 - INFO - Recebendo requisição: GET http://localhost:8000/OperadorasAtivas?nome=JULHO
+2025-04-02 21:26:41,823 - INFO - Resposta gerada com status: 307
+2025-04-02 21:28:12,984 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=nome&page=1&limit=100
+2025-04-02 21:28:12,988 - INFO - Resposta gerada com status: 404
+2025-04-02 21:28:23,035 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:28:23,046 - INFO - Resposta gerada com status: 200
+2025-04-02 21:30:59,522 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:30:59,530 - INFO - Resposta gerada com status: 200
+2025-04-02 21:31:05,696 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:31:05,703 - INFO - Resposta gerada com status: 200
+2025-04-02 21:31:08,096 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:31:08,105 - INFO - Resposta gerada com status: 200
+2025-04-02 21:31:09,791 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:31:09,799 - INFO - Resposta gerada com status: 200
+2025-04-02 21:32:01,906 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:32:01,914 - INFO - Resposta gerada com status: 200
+2025-04-02 21:32:07,602 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:32:07,611 - INFO - Resposta gerada com status: 200
+2025-04-02 21:33:11,690 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:33:11,700 - INFO - Resposta gerada com status: 200
+2025-04-02 21:33:27,644 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=Odontologia&page=1&limit=100
+2025-04-02 21:33:27,650 - INFO - Resposta gerada com status: 200
+2025-04-02 21:34:21,024 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=asd&page=1&limit=100
+2025-04-02 21:34:21,028 - INFO - Resposta gerada com status: 404
+2025-04-02 21:34:26,326 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:34:26,334 - INFO - Resposta gerada com status: 200
+2025-04-02 21:34:52,454 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:34:52,463 - INFO - Resposta gerada com status: 200
+2025-04-02 21:34:54,398 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=sda&page=1&limit=100
+2025-04-02 21:34:54,400 - INFO - Resposta gerada com status: 404
+2025-04-02 21:34:55,542 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=sdaq&page=1&limit=100
+2025-04-02 21:34:55,545 - INFO - Resposta gerada com status: 404
+2025-04-02 21:35:02,623 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=julho&page=1&limit=100
+2025-04-02 21:35:02,628 - INFO - Resposta gerada com status: 200
+2025-04-02 21:35:08,790 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=sociedade+beneficente+dezoito+de+julho&page=1&limit=100
+2025-04-02 21:35:08,795 - INFO - Resposta gerada com status: 200
+2025-04-02 21:35:22,112 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=Odontologia&page=1&limit=100
+2025-04-02 21:35:22,116 - INFO - Resposta gerada com status: 200
+2025-04-02 21:36:49,345 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=ltda&page=1&limit=100
+2025-04-02 21:36:49,352 - INFO - Resposta gerada com status: 200
+2025-04-02 21:36:56,029 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=asd&page=1&limit=100
+2025-04-02 21:36:56,031 - INFO - Resposta gerada com status: 404
+2025-04-02 21:37:05,259 - INFO - Recebendo requisição: GET http://127.0.0.1:8000/OperadorasAtivas/buscar?q=Ltda&page=1&limit=100
+2025-04-02 21:37:05,266 - INFO - Resposta gerada com status: 200

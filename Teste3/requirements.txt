@@ -1,0 +1,5 @@
+SQLAlchemy
+pandas
+python-dotenv
+requests
+psycopg2

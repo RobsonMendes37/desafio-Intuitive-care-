@@ -1,0 +1,23 @@
+CREATE TABLE operadoras_ativas (
+    id SERIAL PRIMARY KEY,
+    registro_ans VARCHAR NOT NULL UNIQUE,
+    cnpj VARCHAR NOT NULL,
+    razao_social VARCHAR NOT NULL,
+    nome_fantasia VARCHAR,
+    modalidade VARCHAR,
+    logradouro VARCHAR,
+    numero VARCHAR,
+    complemento VARCHAR,
+    bairro VARCHAR,
+    cidade VARCHAR,
+    uf VARCHAR(2),
+    cep VARCHAR,
+    ddd VARCHAR(3),
+    telefone VARCHAR,
+    fax VARCHAR,
+    endereco_eletronico VARCHAR,
+    representante VARCHAR,
+    cargo_representante VARCHAR,
+    regiao_de_comercializacao VARCHAR,
+    data_registro_ans DATE
+);
